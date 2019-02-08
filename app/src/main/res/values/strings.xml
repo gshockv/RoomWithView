@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomWordSample</string>
+    <string name="main_activity_title">Words (Room + View)</string>
+    <string name="add_word_activity_title">Add New Word</string>
+    <string name="button_save">Save</string>
+    <string name="edit_word_hint">New word...</string>
+</resources>
